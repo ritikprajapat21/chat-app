@@ -1,8 +1,17 @@
-# React + Vite
+# Chat app Using MERN stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lets user chat with their friends using fast and secure connection
 
-Currently, two official plugins are available:
+# Library used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### For Frontend
+
+### For Backend
+
+1. cors
+2. jsonwebtoken
+3. bcryptjs
+4. cookie-parser
+5. express
+6. mongoose
+7. socket.io
